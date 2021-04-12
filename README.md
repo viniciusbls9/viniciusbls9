@@ -1,16 +1,16 @@
-### Hi there 👋
+### Seja bem vindo(a) 👋
 
-<!--
-**viniciusbls9/viniciusbls9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-benedito/)](https://www.linkedin.com/in/vinicius-benedito/)
 
-Here are some ideas to get you started:
+Prazer, me chamo Vinicius Benedito e sou estudante de programação com foco na stack Javascript (ReactJS, React Native, NodeJS). Apaixonado por tecnologia, possuo grandes sonhos e desejo de aprender a cada dia mais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudo programação por volta de 3 anos e em Janeiro de 2019 tive a oportunidade de entrar para o mercado de tecnologia onde atuei em duas agências de publicidade como desenvolvedor front-end.
+
+Fora do meu horário de trabalho gosto de enriquecer meus conhecimentos na programação, e em alguns outros assuntos, como marketing digital e empreendedorismo.
+
+Para conhecer meus projetos pessoais de estudos, você pode acessar meu github.
+
+### Competências:
+
+- 🖥 Criação de aplicações Web
+- 📱 Criação de aplicações Mobile
