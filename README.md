@@ -1,17 +1,33 @@
-### Seja bem vindo(a) 👋
+### Welcome 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-benedito/)](https://www.linkedin.com/in/vinicius-benedito/)
 
-Desenvolvedor Front-end
+Nice to meet you, I'm a front-end developer focused on the JavaScript stack (ReactJS, React Native, NodeJS and more). I am passionate about technology, and I have big dreams to learn more each day.
 
-Prazer, sou desenvolvedor com foco na stack Javascript (ReactJS, React Native, NodeJS etc). Apaixonado por tecnologia, possuo grandes sonhos e desejo de aprender a cada dia mais.
+I have been a programmer for 3 years now and today, working as a Front-end developer, I prioritize clean code, performance, and usability in the large applications I work with.
 
-Trabalho com programação há 3 anos e hoje atuo como Desenvolvedor Front-end, priorizando clean code, performance e usabilidade em aplicações de grande porte em que trabalho.
+Front-end experiences
+- Clean code
+- VanillaJS
+- React
+- Typescript
+- API's integrations
+- Responsive Layout
+- Usability
+- SEO
+- GIT versioning code (CI/CD).
 
-Experiências Front-end
-HTML, CSS, VanillaJS, React com Typescript, integrações com API's, layout responsivo, usabilidade, SEO. versionamento de código com GIT (CI/CD).
+Front-end learn
+- Testing with Jest and Cypress
+- Best Design Patterns
+- Best software development practices
 
-Estudos back-end
-PHP, NodeJS com Typescript, NoSQL, graphql.
+Back-end learn
+- Clean code
+- PHP
+- NodeJS
+- Typescript
+- NoSQL
+- Graphql.
 
-Fora do meu horário de trabalho gosto de enriquecer meus conhecimentos na programação, e em alguns outros assuntos, como marketing digital e empreendedorismo.
+Outside of my working hours, I try to enrich my knowledge in programming and other subjects, such as digital marketing and entrepreneurship.
